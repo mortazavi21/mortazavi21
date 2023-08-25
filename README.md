@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mortazavi21
-- 👀 I’m interested in web-Application programming 
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in web application programming 
+- 🌱 I’m currently learning solidity & Blockchain
 - 💞️ I’m looking to collaborate on futuristic communities 
 - 📫 mortazavi21@gmail.com
 
